@@ -1,2 +1,2 @@
-console.log("Olá")
 console.log("Oi")
+console.log("Bem Vindo")
